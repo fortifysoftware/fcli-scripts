@@ -1,5 +1,5 @@
 # FCLI Scripts
-Wrapper scripts around [`fcli.jar`](https://github.com/fortify/fcli) for Linux and Windows.
+Wrapper scripts around [`fcli.jar`](https://github.com/fortify/fcli) for Linux and Windows. The scripts assume they are located under `<FCLI>/bin` and the .jar file is under `<FCLI>/lib`.
 
 ## Windows Installation
 Save the scripts in a convenient location such as `C:\Program Files\Fortify\FCLI\bin`:
